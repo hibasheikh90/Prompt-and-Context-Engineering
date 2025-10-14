@@ -133,14 +133,7 @@ Together with **temperature**, they decide whether the AI will give a very predi
 > LLMs don’t *think*  they **predict words** using patterns from data.  
 > You control their style and behavior using **temperature, token limit, Top-K, and Top-P.**
 
----
 
-## 👩‍💻 Written by
-**Hiba Sheikh**  
-Frontend Developer | AI Learner | Student at GIAIC  
-Making AI easy to understand for everyone 💙
-
----
 
 ## ⭐ Support
 If you enjoyed this guide, please ⭐ the repo and share it with your friends who are learning about AI!

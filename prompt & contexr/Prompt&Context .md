@@ -118,14 +118,6 @@ You want AI to help with homework.
 
 When you combine both, AI gives the **best, most accurate, and human-like answers.**
 
----
-
-## 👩‍💻 Written by
-**Hiba Sheikh**  
-Frontend Developer | AI Learner | Student at GIAIC  
-Passionate about making technology and AI easy for everyone to understand 💙
-
----
 
 ## ⭐ Support
 If you liked this guide, please ⭐ the repo and share it with your friends who are learning about AI!
