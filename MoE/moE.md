@@ -1,6 +1,6 @@
 
 
-# ⚡ Mixture of Experts (MoE) — The Brain Inside Modern AI Models  
+# ⚡ Mixture of Experts (MoE)  The Brain Inside Modern AI Models  
  
 
 ---
